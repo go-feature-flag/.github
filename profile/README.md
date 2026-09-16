@@ -19,7 +19,7 @@ All ideas are welcome and it is always better to discuss them in an [issue](http
 We are always happy to discuss about the project.
 For this you have 2 mains channel for this:
 - [Email](mailto:contact@gofeatureflag.org)
-- [Slack](https://gophers.slack.com/messages/go-feature-flag)
+- [Slack](https://gofeatureflag.org/slack)
 
 ## License
-GoFeatureFlag is licensed under the MIT License.
+Go Feature Flag is licensed under the MIT License.
